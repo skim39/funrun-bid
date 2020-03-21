@@ -1,1 +1,6 @@
 # funrun-bid
+
+My friends and I were betting for fun-run,
+and I thought it would be comfortable to make a money tracking program
+so here we go.
+
